@@ -1,5 +1,5 @@
 aaaaa
-dakjdlaksj
+>>>>>>> refs/remotes/origin/master
 dadaw3erwerwe
 asdasd
 asdasdas
